@@ -6,5 +6,6 @@ public class CopyOfTestGit2 {
 		System.out.println("Hello");
 		System.out.println("22222");
 		System.out.println("Hello World");
+		System.out.println("Hello World");
 	}
 }
